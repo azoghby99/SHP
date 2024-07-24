@@ -1,0 +1,10 @@
+4. Essential Git Commands
+
+git init
+
+Initializes a new Git repository in the current directory.
+
+git init
+git clone
+
+
